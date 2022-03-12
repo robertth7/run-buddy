@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://robertth7.github.io/runbuddy/
+https://robertth7.github.io/run-buddy/
 
 ## Contribution
 Made with <3 by Roberto Hurtado
